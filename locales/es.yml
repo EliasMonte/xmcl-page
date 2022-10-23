@@ -1,49 +1,40 @@
-lang: Español
+lang: English
 title:
-  index: X Minecraft Launcher - Un launcher de Minecraft con funciónes muy completas
-  auth: X Minecraft Launcher - Verifica tu cuenta
-  privacy: X Minecraft Launcher - Un launcher de Minecraft con funciónes muy completas
+  index: X Minecraft Launcher - A fully featured Minecraft launcher
+  auth: X Minecraft Launcher - Authenticate your account
+  privacy: X Minecraft Launcher - A fully featured Minecraft launcher
 description: Potencia tu experiencia de Minecraft con un lanzador moderno
 keywords: >-
-  launcher de minecraft, launcher de curseforge, launcher de twitch, tlauncher,
-  multimc, curseforge, modrinth, minecraftforge, fabricmc
-repository: Repositorio de Código Fuente
+  minecraft launcher,curseforge launcher,twitch
+  launcher,tlauncher,multimc,curseforge,modrinth,minecraftforge,fabricmc
+repository: Source Code Repository
 intro:
   first: >-
-    <p class="leading-title"> Un <span class="text-[rgb(61,239,233)]">Minecraft
-    Launcher de</span> Código Abierto y <span
-    class="text-[rgb(107,217,104)]">Moderno</span> UX. </p>
+    <p class="leading-title"> An <span class="text-[rgb(61,239,233)]">Open
+    Source</span> Minecraft Launcher with <span
+    class="text-[rgb(107,217,104)]">Modern</span> UX. </p>
   second: >-
-    Proporciona una <span class="text-yellow-300">optimización del espacio en
-    disco</span> para administrar todos tus <span
-    class="text-amber-600">Mods</span>
+    Provide a <span class="text-yellow-300">Disk Efficient</span> way to manage
+    all your <span class="text-amber-600">Mods</span>
   description: >-
-    X Minecraft Launcher (XMCL) es un launcher moderno de Minecraft que le
-    permite administrar sus recursos masivos como modpacks, paquetes de
-    recursos, mods, paquetes de sombreadores. También tiene integración con
-    Minecraft Forge, Fabric, Quilt, CurseForge y Modrinth.
+    X Minecraft Launcher (XMCL) is a modern Minecraft launcher that let you
+    manage your massive resources like modpacks, resource packs, mods, shader
+    packs. It also has integration with Minecraft Forge, Fabric, Quilt,
+    CurseForge and Modrinth.
 launcher:
   manage:
-    intro: Administre su Minecraft de manera efectiva.
-  description: Un lanzador de Minecraft simple, de código abierto y orientado a funciones
-  first: >-
-    <p class="leading-title"> Un <span class="text-[rgb(61,239,233)]">Minecraft
-    Launcher de</span>  Código Abierto y <span
-    class="text-[rgb(107,217,104)]">Moderno</span> UX. </p>
-  second: >-
-    Proporciona una <span class="text-yellow-300">optimización del espacio en
-    disco</span> para administrar todos tus <span
-    class="text-amber-600">Mods</span>
+    intro: Manage your Minecraft effectively.
+  description: An Simple, Open Sources, and Function Orientated Minecraft Launcher
 download: Instalador
 downloadFor:
-  windows: 'Descargar para Windows:'
-  mac: 'Descargar para Mac:'
-  linux: 'Descargar para Linux:'
+  windows: 'Download For Windows:'
+  mac: 'Download For Mac:'
+  linux: 'Download For Linux:'
 author: Contactar al Autor
 download-zip: Zip (64 bits)
 download-zip-32: Zip (32 bits)
-download-appx: Paquete AppX
-download-appinstaller: Instalador de la aplicación
+download-appx: AppX Package
+download-appinstaller: App Installer
 download-portable: Portable
 download-dmg: DMG
 download-snap: Snap
@@ -53,45 +44,38 @@ download-rpm: RPM
 azure-source: Descargar desde Azure
 azure-ms-source: Descargar desde Azure Microsoft CDN
 baidu-source: Descargar desde Baidu CDN
-github-source: Descargar desde Github
+github-source: Download From Github
 auto-source: Detección automática de la fuente de descarga
-prerelease: Pre-Lanzamientos
+prerelease: Prerelease
 authSuccess: ¡Exitoso!
 authSuccessTitle: |-
   La autorización fue exitosa. 
   ¡Serás redirigido a Minecraft Launcher!
 redirectHelperTitle: >-
-  Si no eres redirigido, puede intentar hacer clic en el botón Abrir en la
-  aplicación para redirigir manualmente.
+  If you aren't redirected, you can try to click Open In App button to manually
+  redirect.
 redirectHelperMessage: >-
-  Se creará una ventana emergente y le pedirá que abra el launcher. Si eso
-  tampoco funciona, ¡puede intentar arrastrar el botón a la ventana del
-  launcher!
-notWork: ¿No funciona?
-openInAppButton: Abrir en el Launcher
-nothingWork: >-
-  Si nada de lo anterior funciona, es posible que desee volver a descargar el
-  último Launcher
+  It will create popup and ask you to open the launcher. If that don't work
+  either, you can try to drag the button to launcher window!
+notWork: Doesn't Work?
+openInAppButton: Open In Launcher
+nothingWork: If none of above works, you might want to re-download the latest Launcher
 gameInstall:
-  title: >-
-    No te preocupes por la <span class="text-green-400"> instalación del
-    juego</span>
+  title: No worry about the <span class="text-green-400"> Game Install</span>
   description: >-
-    ¡XMCL admite la instalación de Vanilla Minecraft, Minecraft Forge, Fabric e
-    incluso Optifine Todo en Uno! Puede instalarlos en un solo lugar dentro del
-    Launcher. También es compatible con la API BMCL de enlace espejo de
-    terceros. Incluso puedes personalizar tu propio espejo en el lanzador.
+    XMCL supports to install the vanilla Minecraft, Minecraft Forge, Fabric, and
+    even Optifine All in One! You can install them in a single place within the
+    Launcher. It also support third party mirror link BMCL API. You can even
+    customize your own mirror in launcher.
 optimalDisk:
   title: >-
-    <span class="text-yellow-300">Óptimo</span> espacio en disco con <span
-    class="text-red-700">Recursos masivos</span>
+    <span class="text-yellow-300">Optimal</span> disk space with <span
+    class="text-red-700">Massive Resources</span>
   description: >-
-    XMCL almacenará todos los mods, paquetes de recursos, paquetes de
-    sombreadores, modpacks en una sola ubicación de almacenamiento. Mientras
-    intenta usar cualquier recurso conocido, usará un vínculo físico para
-    instalar el recurso en la instancia sin copiarlo. 
-
-    Significa que nunca más verás ninguna copia duplicada en la carpeta /mods.
+    XMCL will store all the mods, resource packs, shader packs, modpacks to a
+    single store location. While you try to use any known resource, it will use
+    hard link to install the resource to the instance without copying. It means
+    you will never see any duplicated copy in /mods folder anymore.
 cleanWorkspace:
   title: >-
     Mantenga su espacio de trabajo <span class="text-sky-400">limpio</span> con
@@ -112,10 +96,9 @@ communityIntegration:
     usuario personalizado, como una máscara de bendición.
 download-tarxz: Tar.xz
 download-linuxZip: Zip
-joinPeer: Unanse {inviter}a la Fiesta
+joinPeer: Join {inviter}'s Party
 joinPeerDescription: >-
-  {inviter} te ha invitado a unirte a su grupo {group} para jugar Minecraft
-  juntos! serás redirigido nuevamente al Launcher!"
-fullChangelog: ¿Qué hay de nuevo?
-privacy: Privacidad del Software
-download-web: Instalador web
+  {inviter} invite you to join their group {group} to play Minecraft together!
+  You will be redirected back to Launcher!"
+fullChangelog: What's New?
+privacy: Software Privacy
